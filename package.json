@@ -1,0 +1,29 @@
+{
+  "name": "koa2-ueditor",
+  "version": "1.0.1",
+  "description": "UEditor百度编辑器基于koa2的后端实现",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "koa-multer": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sealice/koa2-ueditor.git"
+  },
+  "homepage": "https://github.com/sealice/koa2-ueditor",
+  "keywords": [
+    "koa2",
+    "nodejs",
+    "ueditor",
+    "koa2-ueditor"
+  ],
+  "author": "sealice",
+  "license": "MIT"
+}
