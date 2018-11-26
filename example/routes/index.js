@@ -10,7 +10,8 @@ router.get('/string', async (ctx, next) => {
   ctx.body = 'koa2 string'
 })
 
-const ueditor = require('koa2-ueditor')
+// const ueditor = require('koa2-ueditor')
+const ueditor = require('../../index.js')
 router.all('/editor/controller', ueditor())
 
 module.exports = router

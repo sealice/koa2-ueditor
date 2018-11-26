@@ -1,6 +1,6 @@
 ## koa2-ueditor
 
-koa2 版的 UEditor 百度编辑器，支持修改 UEditor 的配置
+koa2 版的 UEditor 百度编辑器，支持修改 UEditor 的配置，支持抓取远程图片
 
 ### Installation
 
