@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "debug": "^2.6.3",
-    "handlebars": "^4.1.2",
+    "handlebars": "^4.3.0",
     "koa": "^2.2.0",
     "koa-bodyparser": "^3.2.0",
     "koa-convert": "^1.2.0",
